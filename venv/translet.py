@@ -12,6 +12,7 @@ import tkinter.font as tkFont
 text_buf = pyperclip.paste()
 
 
+
 def translat(text_in1: str) -> str:
     """
     Функция принимает текст на Английском языке и отправлет запрос на google translate
